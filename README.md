@@ -8,3 +8,5 @@
  PS5 emulator </h1>
 
 This constant in development project emulates the PlayStation 5 on Android devices.
+
+This is satire, ofcourse lol 
